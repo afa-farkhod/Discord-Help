@@ -5,4 +5,4 @@ Discord useful commands and helpful tricks
   - open Discord browser version `discord.com`
   - then press `F12` for Windows and `fn+F12` for MacBook
   - then press search button on Windows `Ctrl+f` and for MacBook `CMD+f`
-  
+  - then look for keyword: `blobcontainer`
