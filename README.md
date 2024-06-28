@@ -8,3 +8,5 @@ Discord useful commands and helpful tricks
   - then look for keyword: `blobcontainer`
     
 <img width="807" alt="Screenshot 2024-06-16 at 3 50 35 PM" src="https://github.com/afa-farkhod/Discord-Help/assets/24220136/acf1e04a-4b7e-4158-93f8-00a0520912ce">
+
+- In order to go to some kind of channel without searching effort
