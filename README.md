@@ -12,3 +12,4 @@ Discord useful commands and helpful tricks
 - In order to go to some kind of channel without searching effort, simply press `CMD+K` in `MacOS` and enter channel name. But one more important thing is that, while typing particular channel name you should use `*` key for better searchibility
 
 <img width="575" alt="image" src="https://github.com/afa-farkhod/Discord-Help/assets/24220136/88633dac-229e-47fb-a66a-34c28e01e1c7">
+==============================================================================================================
