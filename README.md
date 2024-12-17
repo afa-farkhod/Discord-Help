@@ -15,4 +15,4 @@ Discord useful commands and helpful tricks
 
 ------------------------------------------------------------------------------------------------
 
-- [Timestamp Converter]()
+- [Timestamp Converter](https://sesh.fyi/timestamp/) - 
